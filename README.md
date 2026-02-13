@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Chandana 👋
 
-<!--
-**chandana-cd/chandana-cd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud & DevOps Engineer passionate about automation, reliability, and cloud-native platforms ☁️
 
-Here are some ideas to get you started:
+## 🔭 Currently
+Building Kubernetes platforms, automating CI/CD pipelines, and improving system observability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack
+AWS • Azure • GCP | Kubernetes • Docker  
+Terraform • Ansible | Jenkins • GitHub  
+Prometheus • Grafana | Python • Bash
+
+## 📫 Contact
+📧 chandanadivyashreebollam@gmail.com  
+💼 linkedin.com/in/chandu03
+
